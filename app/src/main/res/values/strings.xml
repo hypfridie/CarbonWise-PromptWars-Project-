@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App -->
+    <string name="app_name">CarbonWise</string>
+
+    <!-- Navigation -->
+    <string name="home">Home</string>
+    <string name="track">Track</string>
+    <string name="challenges">Challenges</string>
+    <string name="analytics">Analytics</string>
+    <string name="profile">Profile</string>
+
+    <!-- Home -->
+    <string name="greeting_default">Hello, Eco Warrior!</string>
+    <string name="greeting">Hello, %1$s!</string>
+    <string name="dashboard_subtitle">Here\'s your carbon impact today</string>
+    <string name="today_carbon_impact">Today\'s Carbon Impact</string>
+    <string name="kg_co2">kg CO2</string>
+    <string name="this_week">This Week</string>
+    <string name="goal_progress">Goal Progress</string>
+    <string name="daily_challenges">Daily Challenges</string>
+    <string name="no_challenges">No challenges available. Check back tomorrow!</string>
+    <string name="streak_default">0 day streak</string>
+    <string name="streak_days">%1$d day streak</string>
+
+    <!-- Carbon Health -->
+    <string name="excellent">Excellent</string>
+    <string name="good">Good</string>
+    <string name="average">Average</string>
+    <string name="poor">Poor</string>
+
+    <!-- Track -->
+    <string name="track_activity">Track Activity</string>
+    <string name="add_entry">Add Entry</string>
+    <string name="no_entries_today">No entries logged today. Tap + to add one!</string>
+    <string name="entry_added">Entry added successfully</string>
+    <string name="entry_deleted">Entry deleted</string>
+    <string name="distance_km">Distance (km)</string>
+    <string name="usage_kwh">Usage (kWh)</string>
+    <string name="estimate_kg">Estimate (kg CO2)</string>
+    <string name="type">Type</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="required">Required</string>
+    <string name="invalid_number">Invalid number</string>
+    <string name="delete">Delete</string>
+
+    <!-- Categories -->
+    <string name="transport">Transport</string>
+    <string name="energy">Energy</string>
+    <string name="food">Food</string>
+    <string name="shopping">Shopping</string>
+    <string name="waste">Waste</string>
+
+    <!-- Challenges -->
+    <string name="eco_challenges">Eco Challenges</string>
+    <string name="active">Active</string>
+    <string name="completed">Completed</string>
+    <string name="achievements">Achievements</string>
+    <string name="no_challenges_here">No challenges here yet</string>
+    <string name="complete">Complete</string>
+    <string name="completed_status">Completed</string>
+    <string name="challenge_completed">Challenge completed! +%1$d points</string>
+
+    <!-- Analytics -->
+    <string name="carbon_insights">Carbon Insights</string>
+    <string name="week">Week</string>
+    <string name="month">Month</string>
+    <string name="emission_trend">Emission Trend</string>
+    <string name="emission_sources">Emission Sources</string>
+    <string name="daily_emissions">Daily Emissions (kg CO2)</string>
+    <string name="total_reduction">Total Reduction</string>
+    <string name="trees_equivalent">Trees Equivalent</string>
+
+    <!-- Profile -->
+    <string name="monthly_carbon_goal">Monthly Carbon Goal</string>
+    <string name="edit">Edit</string>
+    <string name="settings">Settings</string>
+    <string name="carbon_goals">Carbon Goals</string>
+    <string name="add">Add</string>
+    <string name="remove">Remove</string>
+    <string name="no_active_goals">No active goals. Add one to start tracking!</string>
+    <string name="goal_added">Goal added</string>
+    <string name="goal_removed">Goal removed</string>
+    <string name="goal_updated">Goal updated</string>
+    <string name="add_carbon_goal">Add Carbon Goal</string>
+    <string name="edit_monthly_goal">Edit Monthly Goal</string>
+    <string name="goal_title">Goal Title</string>
+    <string name="target_reduction_percent">Target Reduction (%)</string>
+    <string name="goal_kg">%1$.0f kg CO2</string>
+
+    <!-- AI Chat -->
+    <string name="ai_assistant">AI Sustainability Assistant</string>
+    <string name="ask_about_sustainability">Ask about sustainability...</string>
+    <string name="send">Send</string>
+
+    <!-- Onboarding -->
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="get_started">Get Started</string>
+    <string name="name">Name</string>
+    <string name="age_group">Age Group</string>
+    <string name="country">Country</string>
+    <string name="city">City</string>
+    <string name="vehicle_type">Vehicle Type</string>
+    <string name="daily_commute_km">Daily Commute (km)</string>
+    <string name="family_members">Family Members</string>
+    <string name="monthly_electricity">Monthly Electricity (kWh)</string>
+    <string name="cooking_fuel">Cooking Fuel</string>
+    <string name="diet_type">Diet Type</string>
+    <string name="shopping_habits">Shopping Habits</string>
+
+    <!-- Levels -->
+    <string name="level_seedling">Seedling</string>
+    <string name="level_sapling">Sapling</string>
+    <string name="level_tree">Tree</string>
+    <string name="level_forest_guardian">Forest Guardian</string>
+    <string name="level_earth_champion">Earth Champion</string>
+
+    <!-- Notifications -->
+    <string name="default_notification_channel_id">daily_reminders</string>
+    <string name="challenge_notification_channel_id">challenge_updates</string>
+    <string name="achievement_notification_channel_id">achievements</string>
+    <string name="channel_reminders">Daily Reminders</string>
+    <string name="channel_reminders_desc">Daily eco reminders and tips</string>
+    <string name="channel_challenges">Challenge Updates</string>
+    <string name="channel_challenges_desc">New challenges and completions</string>
+    <string name="channel_achievements">Achievements</string>
+    <string name="channel_achievements_desc">Achievement unlock notifications</string>
+    <string name="daily_reminder_title">Daily Carbon Check</string>
+    <string name="daily_reminder_message">Track your activities today and keep your streak going!</string>
+
+    <!-- Errors -->
+    <string name="error_generic">Something went wrong. Please try again.</string>
+    <string name="error_network">Network error. Check your connection.</string>
+    <string name="error_offline">You\'re offline. Data will sync when connected.</string>
+</resources>

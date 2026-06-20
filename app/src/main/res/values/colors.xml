@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Apple-Inspired Dark Palette -->
+    <color name="background">#000000</color>
+    <color name="surface">#1C1C1E</color>
+    <color name="card_background">#2C2C2E</color>
+    <color name="card_stroke">#3A3A3C</color>
+
+    <!-- iOS System Colors -->
+    <color name="emerald_green">#34C759</color>
+    <color name="emerald_green_dark">#248A3D</color>
+    <color name="electric_blue">#0A84FF</color>
+    <color name="ios_blue">#007AFF</color>
+    <color name="ios_indigo">#5856D6</color>
+    <color name="ios_purple">#AF52DE</color>
+    <color name="ios_teal">#5AC8FA</color>
+    <color name="soft_red">#FF453A</color>
+    <color name="orange">#FF9F0A</color>
+    <color name="purple">#BF5AF2</color>
+    <color name="teal">#5AC8FA</color>
+    <color name="yellow">#FFD60A</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#8E8E93</color>
+    <color name="text_tertiary">#636366</color>
+
+    <!-- Chart Colors (Apple Palette) -->
+    <color name="chart_transport">#007AFF</color>
+    <color name="chart_energy">#5AC8FA</color>
+    <color name="chart_food">#FF9F0A</color>
+    <color name="chart_shopping">#AF52DE</color>
+    <color name="chart_waste">#FF3B30</color>
+
+    <!-- Status Colors -->
+    <color name="status_excellent">#34C759</color>
+    <color name="status_good">#30D158</color>
+    <color name="status_average">#FF9F0A</color>
+    <color name="status_poor">#FF453A</color>
+
+    <!-- Gradient Colors -->
+    <color name="gradient_start">#007AFF</color>
+    <color name="gradient_end">#5AC8FA</color>
+
+    <!-- White/Black -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>

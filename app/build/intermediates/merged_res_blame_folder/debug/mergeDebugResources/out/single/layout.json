@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.9\\com.carbonwise.app-mergeDebugResources-72:\\layout\\fragment_challenges.xml",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.9\\com.carbonwise.app-main-75:\\layout\\fragment_challenges.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.9\\com.carbonwise.app-mergeDebugResources-72:\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.9\\com.carbonwise.app-main-75:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.9\\com.carbonwise.app-mergeDebugResources-72:\\layout\\item_goal.xml",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.9\\com.carbonwise.app-main-75:\\layout\\item_goal.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.9\\com.carbonwise.app-mergeDebugResources-72:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.9\\com.carbonwise.app-main-75:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.9\\com.carbonwise.app-mergeDebugResources-72:\\layout\\dialog_add_entry.xml",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.9\\com.carbonwise.app-main-75:\\layout\\dialog_add_entry.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.9\\com.carbonwise.app-mergeDebugResources-72:\\layout\\activity_onboarding.xml",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.9\\com.carbonwise.app-main-75:\\layout\\activity_onboarding.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.9\\com.carbonwise.app-mergeDebugResources-72:\\layout\\fragment_settings.xml",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.9\\com.carbonwise.app-main-75:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.9\\com.carbonwise.app-mergeDebugResources-72:\\layout\\fragment_track.xml",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.9\\com.carbonwise.app-main-75:\\layout\\fragment_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.9\\com.carbonwise.app-mergeDebugResources-72:\\layout\\item_achievement.xml",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.9\\com.carbonwise.app-main-75:\\layout\\item_achievement.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.9\\com.carbonwise.app-mergeDebugResources-72:\\layout\\fragment_edit_profile.xml",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.9\\com.carbonwise.app-main-75:\\layout\\fragment_edit_profile.xml"
+    },
+    {
+        "merged": "com.carbonwise.app-mergeDebugResources-72:/layout/fragment_home.xml",
+        "source": "com.carbonwise.app-main-75:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.9\\com.carbonwise.app-mergeDebugResources-72:\\layout\\dialog_add_goal.xml",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.9\\com.carbonwise.app-main-75:\\layout\\dialog_add_goal.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.9\\com.carbonwise.app-mergeDebugResources-72:\\layout\\item_challenge_card.xml",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.9\\com.carbonwise.app-main-75:\\layout\\item_challenge_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.9\\com.carbonwise.app-mergeDebugResources-72:\\layout\\item_carbon_entry.xml",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.9\\com.carbonwise.app-main-75:\\layout\\item_carbon_entry.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.9\\com.carbonwise.app-mergeDebugResources-72:\\layout\\item_chat_message_ai.xml",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.9\\com.carbonwise.app-main-75:\\layout\\item_chat_message_ai.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.9\\com.carbonwise.app-mergeDebugResources-72:\\layout\\activity_ai_chat.xml",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.9\\com.carbonwise.app-main-75:\\layout\\activity_ai_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.9\\com.carbonwise.app-mergeDebugResources-72:\\layout\\item_chat_message_user.xml",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.9\\com.carbonwise.app-main-75:\\layout\\item_chat_message_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.9\\com.carbonwise.app-mergeDebugResources-72:\\layout\\item_challenge_list.xml",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.9\\com.carbonwise.app-main-75:\\layout\\item_challenge_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.9\\com.carbonwise.app-mergeDebugResources-72:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.9\\com.carbonwise.app-main-75:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ayush\\.gradle\\daemon\\8.9\\com.carbonwise.app-mergeDebugResources-72:\\layout\\fragment_analytics.xml",
+        "source": "C:\\Users\\ayush\\.gradle\\daemon\\8.9\\com.carbonwise.app-main-75:\\layout\\fragment_analytics.xml"
+    }
+]

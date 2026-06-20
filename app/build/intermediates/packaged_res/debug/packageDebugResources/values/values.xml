@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#000000</color>
+    <color name="black">#000000</color>
+    <color name="card_background">#2C2C2E</color>
+    <color name="card_stroke">#3A3A3C</color>
+    <color name="chart_energy">#5AC8FA</color>
+    <color name="chart_food">#FF9F0A</color>
+    <color name="chart_shopping">#AF52DE</color>
+    <color name="chart_transport">#007AFF</color>
+    <color name="chart_waste">#FF3B30</color>
+    <color name="electric_blue">#0A84FF</color>
+    <color name="emerald_green">#34C759</color>
+    <color name="emerald_green_dark">#248A3D</color>
+    <color name="gradient_end">#5AC8FA</color>
+    <color name="gradient_start">#007AFF</color>
+    <color name="ios_blue">#007AFF</color>
+    <color name="ios_indigo">#5856D6</color>
+    <color name="ios_purple">#AF52DE</color>
+    <color name="ios_teal">#5AC8FA</color>
+    <color name="orange">#FF9F0A</color>
+    <color name="purple">#BF5AF2</color>
+    <color name="soft_red">#FF453A</color>
+    <color name="status_average">#FF9F0A</color>
+    <color name="status_excellent">#34C759</color>
+    <color name="status_good">#30D158</color>
+    <color name="status_poor">#FF453A</color>
+    <color name="surface">#1C1C1E</color>
+    <color name="teal">#5AC8FA</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#8E8E93</color>
+    <color name="text_tertiary">#636366</color>
+    <color name="white">#FFFFFF</color>
+    <color name="yellow">#FFD60A</color>
+    <string name="achievement_notification_channel_id">achievements</string>
+    <string name="achievements">Achievements</string>
+    <string name="active">Active</string>
+    <string name="add">Add</string>
+    <string name="add_carbon_goal">Add Carbon Goal</string>
+    <string name="add_entry">Add Entry</string>
+    <string name="age_group">Age Group</string>
+    <string name="ai_assistant">AI Sustainability Assistant</string>
+    <string name="analytics">Analytics</string>
+    <string name="app_name">CarbonWise</string>
+    <string name="ask_about_sustainability">Ask about sustainability...</string>
+    <string name="average">Average</string>
+    <string name="back">Back</string>
+    <string name="cancel">Cancel</string>
+    <string name="carbon_goals">Carbon Goals</string>
+    <string name="carbon_insights">Carbon Insights</string>
+    <string name="challenge_completed">Challenge completed! +%1$d points</string>
+    <string name="challenge_notification_channel_id">challenge_updates</string>
+    <string name="challenges">Challenges</string>
+    <string name="channel_achievements">Achievements</string>
+    <string name="channel_achievements_desc">Achievement unlock notifications</string>
+    <string name="channel_challenges">Challenge Updates</string>
+    <string name="channel_challenges_desc">New challenges and completions</string>
+    <string name="channel_reminders">Daily Reminders</string>
+    <string name="channel_reminders_desc">Daily eco reminders and tips</string>
+    <string name="city">City</string>
+    <string name="complete">Complete</string>
+    <string name="completed">Completed</string>
+    <string name="completed_status">Completed</string>
+    <string name="cooking_fuel">Cooking Fuel</string>
+    <string name="country">Country</string>
+    <string name="daily_challenges">Daily Challenges</string>
+    <string name="daily_commute_km">Daily Commute (km)</string>
+    <string name="daily_emissions">Daily Emissions (kg CO2)</string>
+    <string name="daily_reminder_message">Track your activities today and keep your streak going!</string>
+    <string name="daily_reminder_title">Daily Carbon Check</string>
+    <string name="dashboard_subtitle">Here\'s your carbon impact today</string>
+    <string name="default_notification_channel_id">daily_reminders</string>
+    <string name="delete">Delete</string>
+    <string name="diet_type">Diet Type</string>
+    <string name="distance_km">Distance (km)</string>
+    <string name="eco_challenges">Eco Challenges</string>
+    <string name="edit">Edit</string>
+    <string name="edit_monthly_goal">Edit Monthly Goal</string>
+    <string name="emission_sources">Emission Sources</string>
+    <string name="emission_trend">Emission Trend</string>
+    <string name="energy">Energy</string>
+    <string name="entry_added">Entry added successfully</string>
+    <string name="entry_deleted">Entry deleted</string>
+    <string name="error_generic">Something went wrong. Please try again.</string>
+    <string name="error_network">Network error. Check your connection.</string>
+    <string name="error_offline">You\'re offline. Data will sync when connected.</string>
+    <string name="estimate_kg">Estimate (kg CO2)</string>
+    <string name="excellent">Excellent</string>
+    <string name="family_members">Family Members</string>
+    <string name="food">Food</string>
+    <string name="gcm_defaultSenderId" translatable="false">631273265522</string>
+    <string name="get_started">Get Started</string>
+    <string name="goal_added">Goal added</string>
+    <string name="goal_kg">%1$.0f kg CO2</string>
+    <string name="goal_progress">Goal Progress</string>
+    <string name="goal_removed">Goal removed</string>
+    <string name="goal_title">Goal Title</string>
+    <string name="goal_updated">Goal updated</string>
+    <string name="good">Good</string>
+    <string name="google_api_key" translatable="false">AIzaSyA3-6n8RPwK2TNvTTx5sl37zTG_rZ1DBQo</string>
+    <string name="google_app_id" translatable="false">1:631273265522:android:a1e9d906a7f17a8f4fe5eb</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA3-6n8RPwK2TNvTTx5sl37zTG_rZ1DBQo</string>
+    <string name="google_storage_bucket" translatable="false">carbonwise-devayush.firebasestorage.app</string>
+    <string name="greeting">Hello, %1$s!</string>
+    <string name="greeting_default">Hello, Eco Warrior!</string>
+    <string name="home">Home</string>
+    <string name="invalid_number">Invalid number</string>
+    <string name="kg_co2">kg CO2</string>
+    <string name="level_earth_champion">Earth Champion</string>
+    <string name="level_forest_guardian">Forest Guardian</string>
+    <string name="level_sapling">Sapling</string>
+    <string name="level_seedling">Seedling</string>
+    <string name="level_tree">Tree</string>
+    <string name="month">Month</string>
+    <string name="monthly_carbon_goal">Monthly Carbon Goal</string>
+    <string name="monthly_electricity">Monthly Electricity (kWh)</string>
+    <string name="name">Name</string>
+    <string name="next">Next</string>
+    <string name="no_active_goals">No active goals. Add one to start tracking!</string>
+    <string name="no_challenges">No challenges available. Check back tomorrow!</string>
+    <string name="no_challenges_here">No challenges here yet</string>
+    <string name="no_entries_today">No entries logged today. Tap + to add one!</string>
+    <string name="poor">Poor</string>
+    <string name="profile">Profile</string>
+    <string name="project_id" translatable="false">carbonwise-devayush</string>
+    <string name="remove">Remove</string>
+    <string name="required">Required</string>
+    <string name="save">Save</string>
+    <string name="send">Send</string>
+    <string name="settings">Settings</string>
+    <string name="shopping">Shopping</string>
+    <string name="shopping_habits">Shopping Habits</string>
+    <string name="skip">Skip</string>
+    <string name="streak_days">%1$d day streak</string>
+    <string name="streak_default">0 day streak</string>
+    <string name="target_reduction_percent">Target Reduction (%)</string>
+    <string name="this_week">This Week</string>
+    <string name="today_carbon_impact">Today\'s Carbon Impact</string>
+    <string name="total_reduction">Total Reduction</string>
+    <string name="track">Track</string>
+    <string name="track_activity">Track Activity</string>
+    <string name="transport">Transport</string>
+    <string name="trees_equivalent">Trees Equivalent</string>
+    <string name="type">Type</string>
+    <string name="usage_kwh">Usage (kWh)</string>
+    <string name="vehicle_type">Vehicle Type</string>
+    <string name="waste">Waste</string>
+    <string name="week">Week</string>
+    <style name="ActiveIndicatorStyle" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">@android:color/transparent</item>
+    </style>
+    <style name="ShapeLarge" parent="ShapeAppearance.Material3.LargeComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">28dp</item>
+    </style>
+    <style name="ShapeMedium" parent="ShapeAppearance.Material3.MediumComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">20dp</item>
+    </style>
+    <style name="ShapeSmall" parent="ShapeAppearance.Material3.SmallComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">12dp</item>
+    </style>
+    <style name="Theme.CarbonWise" parent="Theme.Material3.Dark.NoActionBar">
+        
+        <item name="colorPrimary">@color/ios_blue</item>
+        <item name="colorPrimaryVariant">@color/electric_blue</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        
+        <item name="colorSecondary">@color/ios_indigo</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        
+        <item name="android:colorBackground">@color/background</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="colorSurfaceVariant">@color/card_background</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+        <item name="colorOnSurfaceVariant">@color/text_secondary</item>
+
+        
+        <item name="colorError">@color/soft_red</item>
+        <item name="colorOnError">@color/white</item>
+
+        
+        <item name="android:statusBarColor">@color/background</item>
+        <item name="android:navigationBarColor">@color/background</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+
+        
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+        <item name="android:textColorHint">@color/text_tertiary</item>
+
+        
+        <item name="shapeAppearanceSmallComponent">@style/ShapeSmall</item>
+        <item name="shapeAppearanceMediumComponent">@style/ShapeMedium</item>
+        <item name="shapeAppearanceLargeComponent">@style/ShapeLarge</item>
+
+        
+        <item name="materialAlertDialogTheme">@style/Theme.CarbonWise.Dialog</item>
+    </style>
+    <style name="Theme.CarbonWise.Dialog" parent="ThemeOverlay.Material3.MaterialAlertDialog">
+        <item name="shapeAppearance">@style/ShapeLarge</item>
+        <item name="colorSurface">@color/surface</item>
+    </style>
+    <style name="Widget.CarbonWise.TextInput" parent="Widget.Material3.TextInputLayout.FilledBox">
+        <item name="boxBackgroundColor">@color/card_background</item>
+        <item name="boxCornerRadiusTopStart">14dp</item>
+        <item name="boxCornerRadiusTopEnd">14dp</item>
+        <item name="boxCornerRadiusBottomStart">14dp</item>
+        <item name="boxCornerRadiusBottomEnd">14dp</item>
+        <item name="boxStrokeWidth">0dp</item>
+        <item name="boxStrokeWidthFocused">0dp</item>
+        <item name="hintTextColor">@color/text_secondary</item>
+        <item name="android:textColorHint">@color/text_tertiary</item>
+    </style>
+</resources>
