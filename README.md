@@ -227,11 +227,11 @@ CarbonWise uses an ultra-modern premium design language inspired by Apple's Huma
 
 | Onboarding | Dashboard | AI Assistant |
 |------------|-----------|--------------|
-| ![Onboarding](screenshots/onboarding.png) | ![Dashboard](screenshots/dashboard.png) | ![AI](screenshots/ai_assistant.png) |
+| ![Onboarding](Screenshots/onboarding.png) | ![Dashboard](Screenshots/dashboard.png) | ![AI](Screenshots/ai_assistant.png) |
 
 | Challenges | Analytics | Tracking |
 |------------|-----------|---------------|
-| ![Challenges](screenshots/challenges.png) | ![Analytics](screenshots/analytics.png) | ![Hub](screenshots/tracking.png) |
+| ![Challenges](Screenshots/challenges.png) | ![Analytics](Screenshots/analytics.png) | ![Hub](Screenshots/tracking.png) |
 
 </div>
 
